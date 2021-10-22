@@ -1,1 +1,1 @@
-Les deseo el mejor de los éxitos con su práctica =)
+echo "Tal vez aprender sobre conflictos de git sería interesante."
