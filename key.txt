@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat << EOF
+20212110
+EOF
